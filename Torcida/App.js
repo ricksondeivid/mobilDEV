@@ -13,13 +13,13 @@ function alerta(){
       <StatusBar style="auto" />
 
 
-      <Text style={{marginBottom:"20", marginTop:60, fontSize:30}}>NEYMAR</Text>
+      <Text style={{marginBottom:"20", marginTop:60, fontSize:30}}>ORGANIZADA</Text>
       <Text style={{marginBottom:"10"}}>NOME: ORGANIZAÇÕES FIEIS</Text>
       <Text style={{marginBottom:"10"}}>RECONHECIMENTO: INTERNACIONAL</Text>
       <Text style={{marginBottom:"10"}}>TRADIÇÕES: DIVERSAS</Text>
       <Text style={{marginBottom:"10"}}>LINGUAGEM: ESTRANGEIRAS</Text>
 
-      <Button title='GOL?' onPress={alerta}></Button>
+      <Button title='NÃO ENTENDI?' onPress={alerta}></Button>
 
 
 
