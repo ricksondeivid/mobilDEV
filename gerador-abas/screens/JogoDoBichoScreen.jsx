@@ -54,7 +54,7 @@ export default function JogoDoBichoScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { padding: 16, flex: 1 },
+  container: { flex: 1, paddingTop: 60},
   card: { marginTop: 16 },
   nome: { fontSize: 20, fontWeight: 'bold', marginBottom: 10 },
   imagem: { width: '100%', height: 200, borderRadius: 10 },
