@@ -55,7 +55,7 @@ export default function MegaSenaScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, paddingTop: 60 },
+  container: { flex: 1, paddingTop: 80 },
   resultado: { marginVertical: 16, fontSize: 18 },
   titulo: { fontWeight: 'bold', marginTop: 16 },
   card: { marginVertical: 6 },
